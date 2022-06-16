@@ -1,7 +1,11 @@
 test
+<<<<<<< HEAD
 Changes from master
 gfagafh
 
 hf55
 
 
+=======
+gg4g2
+>>>>>>> ae89463 (change header)
